@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=longnghts&label=Profile%20views&color=0e75b6&style=flat" alt="longnghts" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nghtttttttttttt" target="blank"><img src="https://img.shields.io/twitter/follow/nghtttttttttttt?logo=twitter&style=for-the-badge" alt="nghtttttttttttt" /></a> </p>
-
 - 🔭 I’m currently working on projects to put on my resume ~~ [Mixr](https://github.com/longnghts/Mixr-Port-Project)
 
 - 🌱 I’m currently learning **React.js, mongoDB, Express**
